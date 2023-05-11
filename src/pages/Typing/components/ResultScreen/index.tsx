@@ -150,7 +150,7 @@ const ResultScreen = () => {
                 </div>
               </div>
               <div className="ml-2 flex flex-col items-center justify-end gap-3.5 text-xl">
-                <ShareButton />
+                {/* <ShareButton />
 
                 <IconXiaoHongShu
                   fontSize={15}
@@ -187,7 +187,7 @@ const ResultScreen = () => {
 
                 <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noreferrer" className="leading-[0px]">
                   <IconGithub fontSize={16} className="text-gray-500 hover:text-green-800 focus:outline-none" />
-                </a>
+                </a> */}
               </div>
             </div>
             <div className="mt-10 flex w-full justify-center gap-5 px-5 text-xl">
